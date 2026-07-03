@@ -16,7 +16,7 @@ The complete UI/UX for this project was first designed in **Figma**, including:
 - Contact Page
 - Login & Signup
 - User Profile Dashboard
-- Responsive Mobile Screens
+
 
   
 ## 🎨 Figma Prototype
