@@ -22,5 +22,7 @@ The complete UI/UX for this project was first designed in **Figma**, including:
 ## 🎨 Figma Prototype
 
 View the Figma Design:
+
 https://www.figma.com/design/ROZkkv6JdLLHVrnDhk3TiB/Decorio-Interior-Design-app?node-id=105-172&t=lJgSV4SJ9NQ1nPEl-0
+
 https://www.figma.com/proto/ROZkkv6JdLLHVrnDhk3TiB/Decorio-Interior-Design-app?node-id=105-172&t=WcRl7VK5QjmIGwB9-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
